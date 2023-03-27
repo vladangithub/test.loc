@@ -1,4 +1,5 @@
 <?php error_reporting(-1);
+<<<<<<< HEAD
 // https://www.php.net/manual/ru/language.control-structures.php
 
 // echo 'Test 1', 'Test 2', 'Test 3';
@@ -88,3 +89,5 @@ if ($light == "green") {
 
 
 
+=======
+>>>>>>> verTwo

@@ -40,7 +40,20 @@ if ($light == "red"){
     echo 'Stop';
 }*/
 
-
+if ($light == "green") {
+    echo 'You can go now';
+} elseif ($light == "yellow") {
+    echo 'Get ready';
+}  elseif ($light == "red") {
+    echo 'Stop';
+    if (2 > 3) {
+        echo '2 > 3';
+    } else {
+        echo '2 < 3';
+    }
+} else {
+    echo 'Run';
+}
 
 
 
